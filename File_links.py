@@ -19,7 +19,7 @@ def file_links(text_file):
         return file
     elif text_file=='file_import':
         #file =r'C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\Programming\Python\Homework\HW8\HW8_Phone_Book\import'
-        file =r'export'
+        file =r'ixport'
         return file
 
     
